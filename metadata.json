@@ -1,0 +1,8 @@
+{
+  "name": "Twitch Notify",
+  "description": "Notifies if your favorite streamer started streaming on twitch.tv",
+  "uuid": "twitch_notify@dr.example.com",
+  "shell-version": [
+    "44"
+  ]
+}
